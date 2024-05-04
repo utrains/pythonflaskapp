@@ -22,13 +22,13 @@ source venv/bin/activate
 **1. Clone the project**
 
 ```
-git clone https://github.com/ghanteyyy/Online-Entrance-Preparation.git
+git clone https://github.com/utrains/pythonflaskapp.git
 ```
 
 **2. Install Dependencies**
 
 ```
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 **3. Run unit test**
